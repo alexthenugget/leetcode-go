@@ -1,4 +1,4 @@
-package main
+package problems
 
 //Time complexity - O(m*n), memory - O(m*n)
 
